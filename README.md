@@ -37,4 +37,4 @@ The Breast Cancer Wisconsin Dataset is used, which contains 30 numerical feature
 All plots and visualizations are available in the `outputs/` folder.
 
 ## 📄 Report
-The detailed project report and working plan are available in the `report/` folder.
+The detailed project report and working plan are available in the `Project_files/` folder.
